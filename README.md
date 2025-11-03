@@ -49,4 +49,4 @@ Computer with MATLAB software
 	   0.0160 - 7.1050i
 
 ## Result:
-Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is ------------
+Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is 758.8391
